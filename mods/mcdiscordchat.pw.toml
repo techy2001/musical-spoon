@@ -1,0 +1,13 @@
+name = "MCDiscordChat"
+filename = "MCDiscordChat-2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "febd729f74a56bf230e4791a5d52175d31850d7b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4021105
+project-id = 548539

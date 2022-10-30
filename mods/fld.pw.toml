@@ -1,0 +1,13 @@
+name = "Fast Leaf Decaying"
+filename = "LeafDecayFabric-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f70d95fa4c17f08cb75ec64f453b9cc550afbeb5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3958360
+project-id = 666288

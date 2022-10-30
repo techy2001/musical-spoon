@@ -1,0 +1,13 @@
+name = "RenameIt"
+filename = "renameit-1.3.0+1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dca34397b1a2b4a7b95451a25bda180e7aaa5949"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3929696
+project-id = 558255

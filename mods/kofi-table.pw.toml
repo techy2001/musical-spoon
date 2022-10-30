@@ -1,0 +1,13 @@
+name = "Ko-fi Table"
+filename = "kofi-table-1.0.4+1.19.x.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2c97583ec388f3ffd8688f0fc4612c4d5d0765e6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3956064
+project-id = 643980

@@ -1,0 +1,13 @@
+name = "Whipdashing"
+filename = "whipdashing-1.0.4+1.19.x.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ae445897bf9d1b8e2a58191b37b8268c990e1e19"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4034753
+project-id = 689092

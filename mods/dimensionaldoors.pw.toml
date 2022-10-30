@@ -1,0 +1,13 @@
+name = "DimensionalDoors"
+filename = "DimensionalDoors-5.0.0-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c21fef05a7c801ebe26a6edd5e6380a53f3bd289"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3948255
+project-id = 284876

@@ -1,0 +1,13 @@
+name = "Armor Stand Editor"
+filename = "armor-stand-editor-2.0.0+1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a90d177e24924364f3d545256cf8d99aef062106"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4008471
+project-id = 465383
