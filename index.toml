@@ -148,6 +148,10 @@ hash = "0a82c23063612bf1baf43934323d8fca8dd23ddc2dc0a3db968f72d14b99e887"
 metafile = true
 
 [[files]]
+file = "mods/create-fabric-1.19.2-0.5.0f-752.jar"
+hash = "d03427d21d3d41313126b74a6e18cfffc96f378a0e976396d8c3276bbb81f98c"
+
+[[files]]
 file = "mods/cull-leaves.pw.toml"
 hash = "670a4e096864ea0f8bebd1ae1924790080a18d098fc0cd0cef4f0f824471f358"
 metafile = true
@@ -439,7 +443,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "82b09d41d440ea699804d208dd33f602849942b713cf18d3642e7e353827f24e"
+hash = "d5270a73d556b9d12c73aabf213afe245d8c74b58afd24f45ef903726c9ce507"
 metafile = true
 
 [[files]]
@@ -485,6 +489,10 @@ metafile = true
 file = "mods/whipdashing.pw.toml"
 hash = "3de1f4d999852abe60fec7c27f62b804553a89b6e113e223ef8bf9f49360c61e"
 metafile = true
+
+[[files]]
+file = "mods/yttr-6.599+1.19.jar"
+hash = "a3525975618c1e9b9beaf5878e3bba55b28026050b1504654a9e3723179725ed"
 
 [[files]]
 file = "mods/yungs-api-fabric.pw.toml"
