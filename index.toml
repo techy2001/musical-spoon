@@ -49,6 +49,11 @@ file = "config/styledplayerlist/styles/default.json"
 hash = "4573ad74b75f4cad01492a5bd14f826cb3e79dc2b865d7b0809aeb20acb4327d"
 
 [[files]]
+file = "mods/ad-astra-fabric.pw.toml"
+hash = "6920f6c4434367cf5b2486b3fb321fe9c383dea5432cf627d091cab3bac944dc"
+metafile = true
+
+[[files]]
 file = "mods/amplified-nether.pw.toml"
 hash = "2e8a4921803a54bb9161d1120a5563efa746d3b11b180ff4a6a92e88837c574c"
 metafile = true
@@ -118,6 +123,11 @@ hash = "6a61ed2fb5f7cfe65d2f531119706c1020746e91511de5a6c917ecb83efe48ae"
 metafile = true
 
 [[files]]
+file = "mods/catwalks-inc.pw.toml"
+hash = "c0d1ff66a10e5853ae48c6021bbe4709461f451e71494f2f806004ece7b2965b"
+metafile = true
+
+[[files]]
 file = "mods/cc-restitched.pw.toml"
 hash = "6e8faa4779dca8bafd4cc91cad8f7fe425f6d3d08511463466c6c13b8ffa55dd"
 metafile = true
@@ -152,8 +162,23 @@ file = "mods/create-fabric-1.19.2-0.5.0f-752.jar"
 hash = "d03427d21d3d41313126b74a6e18cfffc96f378a0e976396d8c3276bbb81f98c"
 
 [[files]]
+file = "mods/creeper-overhaul.pw.toml"
+hash = "1809c5d6c6de929511d2cf7cda78ea9932dd9676a1cbab8292947f3b39cfd6f2"
+metafile = true
+
+[[files]]
 file = "mods/cull-leaves.pw.toml"
 hash = "670a4e096864ea0f8bebd1ae1924790080a18d098fc0cd0cef4f0f824471f358"
+metafile = true
+
+[[files]]
+file = "mods/dark-paintings.pw.toml"
+hash = "51dca634f897c7840ec91bd734ddf837d18edfe80e68bba04c1dcb13e378486d"
+metafile = true
+
+[[files]]
+file = "mods/decorative-blocks.pw.toml"
+hash = "06118184bb0ec6bfd407aa120fa28fce9031ddedab3c710a315b161fa1d1a6b1"
 metafile = true
 
 [[files]]
@@ -164,6 +189,11 @@ metafile = true
 [[files]]
 file = "mods/drogtor.pw.toml"
 hash = "16b030c1c537b69f3776bbc0fc8e9cf19dd516979c62be9efef497b54fe7e560"
+metafile = true
+
+[[files]]
+file = "mods/ecologics.pw.toml"
+hash = "1728e54a414ac18f912cfcb1669a3b180f78e47bbd52175d6d00d5682f82e1d0"
 metafile = true
 
 [[files]]
@@ -327,6 +357,11 @@ hash = "2090fb1f46b294250d558b9e74b0f8b81b54b37e397f97aec3f5325a96358653"
 metafile = true
 
 [[files]]
+file = "mods/macaws-doors.pw.toml"
+hash = "27e73e63118d0afa759317328e8d54bc1512bb6ed69ad96b6dca9ed472aba43f"
+metafile = true
+
+[[files]]
 file = "mods/mcdiscordchat.pw.toml"
 hash = "ff0f19944a402fe965a6b4260bc61dfea32283503ef1289e8d3d22d19f622502"
 metafile = true
@@ -349,6 +384,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-wheelie.pw.toml"
 hash = "74ede09820c1bfbea65f9a21f871b0cabc7f46f1c36dd050483ec37ddc5019ad"
+metafile = true
+
+[[files]]
+file = "mods/naturalist.pw.toml"
+hash = "928049dc37b7b41a8d7cadf9977d183527c74744f9dce884c9c04a76b3276832"
 metafile = true
 
 [[files]]
@@ -424,6 +464,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "47aa7f160b51d8bf7378c53c081cb89518723d9b6f2468db6879efb6c51bc557"
+metafile = true
+
+[[files]]
+file = "mods/skin-layers-3d.pw.toml"
+hash = "3842b145ba1cc33a207a846e306b5e7ee46b78f7687b1bf3ab1a6968d90477af"
 metafile = true
 
 [[files]]
