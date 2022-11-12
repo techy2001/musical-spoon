@@ -209,7 +209,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "a5f47659fcd7300b84571ef6461d0461b8a1556642fa845b8955902aeaf59c9b"
+hash = "bb8660a03707dd2e0f3a44cebe34d73d06cf68c45353de35caa0d917c5c8fc59"
 metafile = true
 
 [[files]]
@@ -445,6 +445,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "82b09d41d440ea699804d208dd33f602849942b713cf18d3642e7e353827f24e"
+metafile = true
+
+[[files]]
+file = "mods/terrablender-fabric.pw.toml"
+hash = "4176c70e43571043df091b27c67ac56c694596c57d52740d52f98053cff3bcde"
 metafile = true
 
 [[files]]
