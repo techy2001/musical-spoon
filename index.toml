@@ -64,7 +64,7 @@ hash = "955325f1487e5118fb3c716d78b2771c4b8998302fded962636941351e71224f"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "be7cd5bb98612bff05b734b897003c56dca3d943901fc4d59f2b1a86a5ee0771"
+hash = "651bb1998c83a40530d6cb95d40bd13e2f0f8ab064e0efdd3630f648cbe7f4ed"
 metafile = true
 
 [[files]]
@@ -73,8 +73,28 @@ hash = "dc8c34957bf9457e5cb847843e8375a43dc88fb5ff8faf9975f780eec92c61af"
 metafile = true
 
 [[files]]
+file = "mods/bclib.pw.toml"
+hash = "5a9808e1125ab6e1bd3b5b347b26342c8fdb4845a2b6a494bcef21d4881504e6"
+metafile = true
+
+[[files]]
+file = "mods/betterend.pw.toml"
+hash = "e3745fe039940bde438767cf84d1d313bec5d806415b185ac4386c368190a6f9"
+metafile = true
+
+[[files]]
 file = "mods/bewitchment.pw.toml"
 hash = "9d390f8378b38aa1ca9402721380827357552e12cff6c02cf272a9bfa8c39efa"
+metafile = true
+
+[[files]]
+file = "mods/biome-makeover.pw.toml"
+hash = "03d0cd0f8dc8c1c28e91ab07d62f9fdba448b3c5018eaf2e138796ecd101fa06"
+metafile = true
+
+[[files]]
+file = "mods/biomesyougo.pw.toml"
+hash = "dbbe09e6693b3c8608f7831b99f66ff57a62a5dfef612295cbe144553abd7336"
 metafile = true
 
 [[files]]
@@ -98,6 +118,11 @@ hash = "6a61ed2fb5f7cfe65d2f531119706c1020746e91511de5a6c917ecb83efe48ae"
 metafile = true
 
 [[files]]
+file = "mods/cc-restitched.pw.toml"
+hash = "6e8faa4779dca8bafd4cc91cad8f7fe425f6d3d08511463466c6c13b8ffa55dd"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "d65e0b8380da089611b3210ea846374e2032140f31f76da535b31a75b4fb252c"
 metafile = true
@@ -108,13 +133,23 @@ hash = "40e40000ab1c16c9e21ffeb0a26cf97fa61caa317313a55a7b3a1d647485fcfe"
 metafile = true
 
 [[files]]
+file = "mods/cinderscapes.pw.toml"
+hash = "cb7ab90e5d79e52b0dfeee1d34f5533216f9ef2fd7607efb73bca421c29f148c"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "c3c73a4ae07f1ab6de623b37007df3581286fe3495377af6d3da4b105892adb2"
+hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
 metafile = true
 
 [[files]]
 file = "mods/collective-fabric.pw.toml"
 hash = "5f681f7ead40e5835277b8589297a402d13da79681ff5aa2601abbf2fd910a00"
+metafile = true
+
+[[files]]
+file = "mods/consistencyplus.pw.toml"
+hash = "0a82c23063612bf1baf43934323d8fca8dd23ddc2dc0a3db968f72d14b99e887"
 metafile = true
 
 [[files]]
@@ -130,6 +165,11 @@ metafile = true
 [[files]]
 file = "mods/drogtor.pw.toml"
 hash = "16b030c1c537b69f3776bbc0fc8e9cf19dd516979c62be9efef497b54fe7e560"
+metafile = true
+
+[[files]]
+file = "mods/eldritch-mobs.pw.toml"
+hash = "8870c2f8e0f5a7e2388a91691fecfd826e8d1cf7cd1eec484b006d0d8b516868"
 metafile = true
 
 [[files]]
@@ -169,7 +209,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "234cd2ef3c32121ce1219c62afdbe7273fe79f95252c322ec3a28411f42c721d"
+hash = "a5f47659fcd7300b84571ef6461d0461b8a1556642fa845b8955902aeaf59c9b"
 metafile = true
 
 [[files]]
@@ -339,12 +379,17 @@ metafile = true
 
 [[files]]
 file = "mods/pehkui.pw.toml"
-hash = "2b7f7f74182b86122c27d4e94c8698ce34d86c64fd9ab1bef8993e4ccf68d251"
+hash = "527279ca4b9a30e756139465d01009482bafc3e2992c96947118a56e0bce293f"
 metafile = true
 
 [[files]]
 file = "mods/pick-your-poison.pw.toml"
 hash = "7d521085ff1a7c50a66ff9b8a1e14639440746fb08c829b83bdc1fac0986ef22"
+metafile = true
+
+[[files]]
+file = "mods/piercing-paxels.pw.toml"
+hash = "215c6991f2f4c7e81ecb0c67bab828fe928bcf329f60e0729608efebaed23854"
 metafile = true
 
 [[files]]
@@ -368,6 +413,16 @@ hash = "8e38ff256bfb7a0dc1c1399b723ceb2dcdac62f877975bdf5483c7b9271cf344"
 metafile = true
 
 [[files]]
+file = "mods/selene.pw.toml"
+hash = "547bfee7cdbf7d6af621716b4ffada185860fd95c2f29aad8d894c09108045b9"
+metafile = true
+
+[[files]]
+file = "mods/simple-copper-pipes.pw.toml"
+hash = "3806f524a75c75511837e9d6929661c4e0e58296bf5c4537c5942e66836b380b"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "47aa7f160b51d8bf7378c53c081cb89518723d9b6f2468db6879efb6c51bc557"
 metafile = true
@@ -385,6 +440,11 @@ metafile = true
 [[files]]
 file = "mods/styled-player-list.pw.toml"
 hash = "f7f80c031114c96a2c49d1cba90bdbd41066e4ab0cef545b0ccdb94feac0da17"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "82b09d41d440ea699804d208dd33f602849942b713cf18d3642e7e353827f24e"
 metafile = true
 
 [[files]]
@@ -414,6 +474,11 @@ metafile = true
 [[files]]
 file = "mods/wanderers-catalogue.pw.toml"
 hash = "5582cb5a7ac1e0e47871cd1bef39a88f5a20c67d047e5402fd97170d05c20b5b"
+metafile = true
+
+[[files]]
+file = "mods/webstreamer.pw.toml"
+hash = "4f2bdd95b949181028ba388d4c72b2b971f9b950b0a6034ee4d4f954126069de"
 metafile = true
 
 [[files]]
