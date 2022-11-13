@@ -1,13 +1,13 @@
-name = "The Bumblezone (Quilt/Fabric)"
-filename = "the_bumblezone_fabric-6.1.14+1.19.2.jar"
+name = "The Bumblezone - Quilt/Fabric"
+filename = "the_bumblezone_fabric-6.3.1+1.19.2.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/eA8SXqWL/versions/7vS61Pu1/the_bumblezone_fabric-6.3.1%2B1.19.2.jar"
 hash-format = "sha1"
-hash = "d30a505e43148b02e2c0853c44aca0a5044ad9c5"
-mode = "metadata:curseforge"
+hash = "36d7cd97d15eddbc9bc018fdc8c62c441d4512ae"
 
 [update]
-[update.curseforge]
-file-id = 4019408
-project-id = 363949
+[update.modrinth]
+mod-id = "eA8SXqWL"
+version = "7vS61Pu1"

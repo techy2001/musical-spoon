@@ -3,11 +3,11 @@ filename = "renameit-1.3.0+1.19.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/zrUmyoDl/versions/renameit-1.3.0%2B1.19.x/renameit-1.3.0%2B1.19.jar"
 hash-format = "sha1"
 hash = "dca34397b1a2b4a7b95451a25bda180e7aaa5949"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 3929696
-project-id = 558255
+[update.modrinth]
+mod-id = "zrUmyoDl"
+version = "8zk4vtUe"

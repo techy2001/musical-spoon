@@ -3,11 +3,11 @@ filename = "whipdashing-1.0.4+1.19.x.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/KaSmM9jU/versions/RV5gkI5R/whipdashing-1.0.4%2B1.19.x.jar"
 hash-format = "sha1"
 hash = "ae445897bf9d1b8e2a58191b37b8268c990e1e19"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4034753
-project-id = 689092
+[update.modrinth]
+mod-id = "KaSmM9jU"
+version = "RV5gkI5R"
