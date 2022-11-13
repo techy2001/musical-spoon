@@ -447,6 +447,11 @@ hash = "b7d2a5c2574157379982bc80aa3f04c19e7be1b681eb1b8233b85058e728e14c"
 metafile = true
 
 [[files]]
+file = "mods/terrablender-fabric.pw.toml"
+hash = "da5ef6d6ea7ab0a7b0691bb54091dddeb4bf462258756aec1f479ab9f6e62466"
+metafile = true
+
+[[files]]
 file = "mods/the-bumblezone-fabric.pw.toml"
 hash = "3cfac0afbfd2d5f5a6d6a9cf00f6ccda4e4afed71d6831102a562caafad8dd6b"
 metafile = true
