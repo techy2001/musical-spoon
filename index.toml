@@ -322,6 +322,16 @@ hash = "27e73e63118d0afa759317328e8d54bc1512bb6ed69ad96b6dca9ed472aba43f"
 metafile = true
 
 [[files]]
+file = "mods/macaws-trapdoors.pw.toml"
+hash = "5dd16ad9b4057da6697197872580a42f92cbc3bf2a464871b8ff349163ea3f98"
+metafile = true
+
+[[files]]
+file = "mods/macaws-windows.pw.toml"
+hash = "d3b441fc147721fe2c498ccd17809ce2b5dc6d9714d33d66ef4e69d61e907e88"
+metafile = true
+
+[[files]]
 file = "mods/mcdiscordchat.pw.toml"
 hash = "75899f5e221d068d54a3c531fa7c7b035cc05ca20e98b484cffaaf2df1032ebb"
 metafile = true
@@ -359,6 +369,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "1aa7510ec1a3994273a20f8b341f676583b9ede2eaea3badd46deb7178d92a6c"
+metafile = true
+
+[[files]]
+file = "mods/paintings.pw.toml"
+hash = "28af23724a7b1a82b41b983445f891a0752652f2034b5bf0fa7b344210eb2a6b"
 metafile = true
 
 [[files]]
@@ -464,6 +479,11 @@ metafile = true
 [[files]]
 file = "mods/tooltipfix.pw.toml"
 hash = "2d87e18db16ceb34da29277e49f0df0de1e7b1f52d0efc8b4d93749d2f32415c"
+metafile = true
+
+[[files]]
+file = "mods/transparent.pw.toml"
+hash = "fc21f4ec695874f7e05b52a9115f9b2616b5a6a84cb58f6567b3e1f308e427ed"
 metafile = true
 
 [[files]]
