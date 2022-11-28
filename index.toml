@@ -272,6 +272,11 @@ hash = "d4439c2d88668eb6065b34079d3a508988282588cca0faf392b04549e8a38b15"
 metafile = true
 
 [[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "e7506764d7ba8d651a471e5d1dee9827b59c1ace77a3bab93e138d86644f8be9"
+metafile = true
+
+[[files]]
 file = "mods/impaled.pw.toml"
 hash = "232c69d47c4466a97e5e6717940d57407438a99cb91b665349fb4282d8f76243"
 metafile = true
