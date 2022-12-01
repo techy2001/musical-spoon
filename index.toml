@@ -138,8 +138,9 @@ hash = "3cbe3d523b39667928fcc34f71651b0e581e5c541dd5ecf17228464770466bc5"
 metafile = true
 
 [[files]]
-file = "mods/create-fabric-1.19.2-0.5.0f.jar"
-hash = "25388f31cfd2fba39ed23a5f27d27dce4b0b1aee33ed7d94052a2011c874c7e8"
+file = "mods/create-fabric.pw.toml"
+hash = "19783c9eb3f9c3a9522f47f11fa9b87dd62b64a42e52cadbdf9ce9d5c8d73d46"
+metafile = true
 
 [[files]]
 file = "mods/creeper-overhaul.pw.toml"
@@ -223,7 +224,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "bb8660a03707dd2e0f3a44cebe34d73d06cf68c45353de35caa0d917c5c8fc59"
+hash = "5153b742252cd104d2fd71eea311d7523ba1b808ef832f1b8a9b7ede7c12a6e2"
 metafile = true
 
 [[files]]
