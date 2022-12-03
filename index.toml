@@ -298,6 +298,11 @@ hash = "7cfacba402f52a71096bda72ede806b9b6964c2c807019da76f4e27fa839c8a5"
 metafile = true
 
 [[files]]
+file = "mods/itemswapper.pw.toml"
+hash = "68f64a0f739cbbb6a0b07cea7cbce8b08aa17862f6f62babb6322fc22515b2f2"
+metafile = true
+
+[[files]]
 file = "mods/kofi-table.pw.toml"
 hash = "8726c3ef33756d400f3f5fc00da96608ced3a11742682ef29bd4287225fe70d8"
 metafile = true
